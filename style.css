@@ -1,0 +1,43 @@
+*{
+    margin: 0 auto;
+    padding: 0;
+    background-color: rgb(0, 0, 0);
+}
+
+.max-width{
+    max-width: 500px;
+    width: 100%;
+    padding: 10px;
+    box-sizing: border-box;
+}
+
+h1{
+    margin-top: 20px;
+    padding-left: 22.5%;
+    color: white;
+}
+.init {
+    cursor: pointer;
+    border: none;
+    height: 30px;
+    width: 20%;
+    background-color: rgb(7, 179, 7);
+    color: white;
+}
+
+.pause {
+    cursor: pointer;
+    border: none;
+    height: 30px;
+    width: 20%;
+    background-color: rgb(238, 137, 4);
+    color: white;
+}
+.stop {
+    cursor: pointer;
+    border: none;
+    height: 30px;
+    width: 20%;
+    background-color: rgb(238, 4, 4);
+    color: white;
+}
